@@ -1,4 +1,6 @@
-# ExternalApiGiphy
+# Fetching Gifs using External Api
+
+This project is used to display trending gifs as well as it allows searching of gifs using keywords. The gif data is being fetched from external API.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1.
 
